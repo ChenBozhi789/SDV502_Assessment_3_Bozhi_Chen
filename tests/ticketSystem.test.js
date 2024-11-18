@@ -1,3 +1,5 @@
+// These changes is for verifying GitHub Actions trigger condition
+
 // Simulate DOM testing environment
 document.body.innerHTML = `
     <form id="bookingForm">
