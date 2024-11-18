@@ -1,4 +1,4 @@
-// These changes is for verifying GitHub Actions trigger condition
+// These changes is for verifying GitHub Actions pull request trigger condition
 
 // Simulate DOM testing environment
 document.body.innerHTML = `
